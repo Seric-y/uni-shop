@@ -2,37 +2,33 @@
 	"pages": [ {
 		"path": "pages/home/home",
 		"style": {
-			"navigationBarTitleText": "",
 			"enablePullDownRefresh": false
 		}
 
 	}, {
 		"path": "pages/cate/cate",
 		"style": {
-			"navigationBarTitleText": "",
 			"enablePullDownRefresh": false
 		}
 
 	}, {
 		"path": "pages/cart/cart",
 		"style": {
-			"navigationBarTitleText": "",
 			"enablePullDownRefresh": false
 		}
 
 	}, {
 		"path": "pages/my/my",
 		"style": {
-			"navigationBarTitleText": "",
 			"enablePullDownRefresh": false
 		}
 
 	}],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "黑马优购",
+		"navigationBarBackgroundColor": "#C00000",
+		"backgroundColor": "#fff",
 		"app-plus": {
 			"background": "#efeff4"
 		}
